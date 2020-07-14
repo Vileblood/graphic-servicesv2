@@ -1,0 +1,1 @@
+os.environ.setdefault("SECRET_KEY", 'xawyqg^1)f0v+cdji2s9sn#96#ux512609h5m%=-b8jpzsy')
