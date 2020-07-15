@@ -1,1 +1,1 @@
-os.environ.setdefault("SECRET_KEY", 'xawyqg^1)f0v+cdji2s9sn#96#ux512609h5m%=-b8jpzsy')
+os.environ.setdefault("SECRET_KEY", 'x6h&9(ug*nm*iv9ybxn53#kwj(nds@l^4(deoqsf1-pggpx2m5')
