@@ -3,8 +3,9 @@ from django.http import HttpResponse
 
 # Create your views here.
 
+
 def addblog(request):
     """A view to return add blog page"""
-    return HttpResponse(request, 'addblog/addblog.html')
+    return render(request, 'addblog.html')
 
     
